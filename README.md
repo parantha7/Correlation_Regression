@@ -1,7 +1,7 @@
 ```c
 NAME : Paranthaman S
 REG-NO : 212224040232
-DATE : 
+DATE : 05-05-25
 ```
 # EXP-3 : Correlation and regression for data analysis
 # Aim : 
